@@ -1,2 +1,2 @@
-spring:
-  server: 9004
+config:
+  info: 9004
